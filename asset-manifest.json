@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nayounsang1.github.io/watchtest123/static/css/main.e9d7479f.css",
-    "main.js": "/nayounsang1.github.io/watchtest123/static/js/main.6001bd56.js",
-    "static/js/787.1383a7d5.chunk.js": "/nayounsang1.github.io/watchtest123/static/js/787.1383a7d5.chunk.js",
-    "index.html": "/nayounsang1.github.io/watchtest123/index.html",
-    "main.e9d7479f.css.map": "/nayounsang1.github.io/watchtest123/static/css/main.e9d7479f.css.map",
-    "main.6001bd56.js.map": "/nayounsang1.github.io/watchtest123/static/js/main.6001bd56.js.map",
-    "787.1383a7d5.chunk.js.map": "/nayounsang1.github.io/watchtest123/static/js/787.1383a7d5.chunk.js.map"
+    "main.css": "/watchtest123/static/css/main.e9d7479f.css",
+    "main.js": "/watchtest123/static/js/main.ddfcc7d7.js",
+    "static/js/787.1383a7d5.chunk.js": "/watchtest123/static/js/787.1383a7d5.chunk.js",
+    "index.html": "/watchtest123/index.html",
+    "main.e9d7479f.css.map": "/watchtest123/static/css/main.e9d7479f.css.map",
+    "main.ddfcc7d7.js.map": "/watchtest123/static/js/main.ddfcc7d7.js.map",
+    "787.1383a7d5.chunk.js.map": "/watchtest123/static/js/787.1383a7d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d7479f.css",
-    "static/js/main.6001bd56.js"
+    "static/js/main.ddfcc7d7.js"
   ]
 }
